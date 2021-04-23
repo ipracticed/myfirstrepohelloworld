@@ -6,5 +6,7 @@
 //3rd and final commit for friday, april 2nd, 2021.//
 
 //re-remembering commiting to github, day two.
+//Just re-solidifying git skills again.
+
 
 main ()
