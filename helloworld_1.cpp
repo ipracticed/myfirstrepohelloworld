@@ -8,5 +8,6 @@
 //re-remembering commiting to github, day two.
 //Just re-solidifying git skills again.
 //Mic check one two
+//I just installed vs code and some extensions.  I am checking if my git extension is working
 
 main ()
